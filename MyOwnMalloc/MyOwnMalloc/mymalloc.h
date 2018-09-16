@@ -11,7 +11,7 @@
 
 
 /*
- * the reference tutorial: https://bit.ly/2oMVY0U
+ * refencia: tutorial: https://bit.ly/2oMVY0U
  * A estratégia de alocação utilizada é a first fit
  * Esta estratégia aloca o espaço requerido na primeira partição
  * que o couber, independente do espaço livre que vai deixar.
